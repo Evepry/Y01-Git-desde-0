@@ -203,3 +203,7 @@ git push -u origin main
 git remote add origin # (link repositorio)
 git branch -M main
 git push -u origin main
+
+# Eliminar Repositorio
+
+rm -rf .git
